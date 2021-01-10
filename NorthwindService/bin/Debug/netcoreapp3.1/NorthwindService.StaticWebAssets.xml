@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="_content/NorthwindMvc" Path="C:\Users\standish\All_Dev_Work\DOTNET_Dev_Work\DOTNET_Working_Projects\Cross-Origin_Restful_API_Client\aspnet-mvc-northwind\wwwroot\" />
+  <ContentRoot BasePath="/Identity" Path="C:\Users\standish\.nuget\packages\microsoft.aspnetcore.identity.ui\3.1.0\staticwebassets\V4\" />
+</StaticWebAssets>

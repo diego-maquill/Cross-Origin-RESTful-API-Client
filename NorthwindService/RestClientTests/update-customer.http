@@ -1,0 +1,9 @@
+PUT https://localhost:5001/api/customers/ABCXY HTTP/1.1
+Content-Type: application/json
+
+{
+ "customerID": "ABCXY",
+ "companyName": "Kripto IT"
+}
+
+# https://en.wikipedia.org/wiki/Patch_verb#:~:text=PUT%20vs%20PATCH%20vs%20POST,-HTTP%20is%20the&text=The%20main%20difference%20between%20the,instructions%20to%20modify%20the%20resource.
